@@ -20,7 +20,7 @@ from config import ETFS
 # 数据路径 - 使用现有的data目录
 DATA_DIR = os.path.join(parent_dir, 'data')
 
-# 读取token
+# 读取tusahre pro的token
 token_path = os.path.join(parent_dir, 'ts_token.txt')
 with open(token_path, 'r') as f:
     token = f.read().strip()
