@@ -11,6 +11,9 @@
   1. ETF价格走势(含百分位指标)
   2. 历史波动率HV20/60/252对比
   3. VIX隐含波动率 vs 历史波动率(2023至今)
+  4. 网页示例：
+     <img width="3808" height="1643" alt="image" src="https://github.com/user-attachments/assets/d7a02cb6-e427-4570-890b-9a25955bed36" />
+
 
 - 🔄 **一键增量数据更新**: 自动检测最新数据,只更新缺失部分
 
